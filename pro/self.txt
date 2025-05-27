@@ -1,3 +1,4 @@
 name: gaurav
 age: 26
 phn: 1234
+pin: 098
